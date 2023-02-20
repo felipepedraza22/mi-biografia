@@ -3,13 +3,13 @@ Este es mi primer sitio web,Se trata de mi biografia y algunos otros aspectos de
 
 ## Secciones (páginas) del sitio web
 
--index html: pagina principal del sitio. Es una portada de su aubiografia. Contiene los lins a los demás si
+-index html: pagina principal del sitio. Es una portada de su aubiografia. Contiene los links a las demás secciones del sitio
 
+- Lugar y fecha de nacimiento
 
+- Familia
 
-
-
-
+- Educacion
 
 - Amigos 
 
